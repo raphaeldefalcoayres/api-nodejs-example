@@ -29,10 +29,19 @@ Second
 Execute `yarn` for installing dependences
 ```
 
+Third
+
+```
+Duplicate `.env.example` to create `.env` with your basic configs
+```
+
 Finishing
 
 ```
-Execute `yarn dev` for executing your api
+Execute `yarn dev` for executing api
+```
+```
+Execute `yarn test` for testing api
 ```
 
 ## Built With
@@ -46,6 +55,8 @@ Execute `yarn dev` for executing your api
 * [Sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM.
 * [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 * [Supertest](http://visionmedia.github.io/superagent/) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
+* [Factory Girl](https://github.com/simonexmachina/factory-girl#readme) - A factory library for node.js and the browser inspired by factory_girl.
+* [Faker](https://github.com/marak/Faker.js/) - generate massive amounts of realistic fake data in Node.js and the browser.
 
 ## License
 
