@@ -45,6 +45,7 @@ Execute `yarn dev` for executing your api
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles for multiple developers and editors.
 * [Sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM.
 * [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+* [Supertest](http://visionmedia.github.io/superagent/) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
 
 ## License
 
