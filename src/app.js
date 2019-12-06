@@ -1,9 +1,9 @@
+import './bootstrap';
+
 import express from 'express';
 import cors from 'cors';
 import Youch from 'youch';
 import routes from './routes';
-
-import 'dotenv/config';
 
 class App {
   constructor() {

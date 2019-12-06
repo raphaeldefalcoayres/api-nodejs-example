@@ -32,7 +32,7 @@ Execute `yarn` for installing dependences
 Finishing
 
 ```
-Execute `yarn dev` for testing your api
+Execute `yarn dev` for executing your api
 ```
 
 ## Built With
@@ -44,6 +44,7 @@ Execute `yarn dev` for testing your api
 * [Nodemon](https://nodemon.io/) -  Nodemon for reload automatically.
 * [EditorConfig](https://editorconfig.org/) - EditorConfig helps maintain consistent coding styles for multiple developers and editors.
 * [Sequelize](https://sequelize.org/) - Sequelize is a promise-based Node.js ORM.
+* [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 
 ## License
 
